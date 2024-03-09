@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8201a595-2da4-4ab4-a247-e98931ed1d76" name="Changes" comment="Eight Commit">
+    <list default="true" id="8201a595-2da4-4ab4-a247-e98931ed1d76" name="Changes" comment="Seventh Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Land For Sale.html" beforeDir="false" afterPath="$PROJECT_DIR$/Land For Sale.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Watamu Hub.html" beforeDir="false" afterPath="$PROJECT_DIR$/The Watamu Hub.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,27 +27,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
   <component name="ProjectId" id="2UYgGHp1p7BGjRyc4Kengb2oJoA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hlcs/PycharmProjects/k-properties&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hlcs/PycharmProjects/k-properties/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
@@ -59,7 +61,7 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -72,13 +74,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-7ff197e7758c-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14024.28" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,13 +101,7 @@
       <workItem from="1701186684275" duration="643000" />
       <workItem from="1702144436100" duration="1227000" />
       <workItem from="1706786520199" duration="3897000" />
-      <workItem from="1709317109276" duration="26819000" />
-      <workItem from="1709587440520" duration="172000" />
-      <workItem from="1709587825965" duration="614000" />
-      <workItem from="1709591074200" duration="107000" />
-      <workItem from="1709923704540" duration="84000" />
-      <workItem from="1709985298413" duration="633000" />
-      <workItem from="1709986202714" duration="268000" />
+      <workItem from="1709317109276" duration="26476000" />
     </task>
     <task id="LOCAL-00001" summary="Seventh Commit">
       <option name="closed" value="true" />
@@ -122,15 +111,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706789416194</updated>
     </task>
-    <task id="LOCAL-00002" summary="Eight Commit">
-      <option name="closed" value="true" />
-      <created>1709498103914</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709498103914</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +119,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seventh Commit" />
-    <MESSAGE value="Eight Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eight Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seventh Commit" />
   </component>
 </project>
